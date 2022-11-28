@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <uie:Toolbar style="justify-content: flex-start;">
+        <ui:Label text="Level: 15" style="-unity-font-style: bold; font-size: 12px;" />
+        <ui:Button text="Exit" style="border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; -unity-background-image-tint-color: rgb(135, 53, 53); color: rgb(202, 132, 22); background-color: rgb(89, 214, 60); font-size: 40px;" />
+    </uie:Toolbar>
+</ui:UXML>
